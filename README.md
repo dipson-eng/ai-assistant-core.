@@ -1,3 +1,11 @@
-# ai-assistant-core.
-"Making a ai assistant that helps you guys in future"!!
-hi !!
+# AI Chat App
+
+This is our AI project using Flask and frontend.
+
+## Features
+- Chat system
+- AI response
+
+## Tech
+- Python (Flask)
+- HTML, CSS, JS
